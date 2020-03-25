@@ -1,0 +1,152 @@
+
+body {
+    background-color: RGB(247, 145, 192);
+    background-color: RGBA(247, 145, 192, 0.27);
+
+  }
+
+
+  hr {
+    border-style: none;
+    border-top-style: double;
+    border-color: #4F0202;
+    border-width: 3px;
+    width: 77%;
+  }
+
+.navbutton:hover {
+  color: rgb(102, 91, 101);
+  color: rgba(102, 91, 101, 0.7);
+}
+
+
+  .name {
+    font-size: 47px;
+    font-weight: 900;
+    color: #4F0202;
+    font-family: Florence, cursive;
+    text-align: left;
+    margin-left: 10%;
+  }
+
+  .subheading {
+    color: #4F0202;
+    font-size: 23px;
+    font-style: normal;
+    font-family: cursive;
+    text-align: left;
+    margin-left: 10%;
+  }
+
+.text{
+  color: #4F0202;
+  font-size: 19px;
+  font-style: normal;
+  font-family: cursive;
+  font-weight: 900;
+  text-align: left;
+  margin-left: 5%;
+}
+
+
+.contact{
+  color: #4F0202;
+  font-size: 17px;
+  font-style: normal;
+  font-family: cursive;
+  text-align: left;
+  margin-left: 13%;
+}
+
+
+  .label {
+    color: #4F0202;
+    font-family: Florence, cursive;
+    font-style: normal;
+    font-size: 33px;
+    margin-left: 3%;
+  }
+
+
+
+  .one {
+    width: 100%;
+    color: #4F0202;
+
+  }
+
+
+
+
+
+  a {
+    color: #4F0202;
+
+
+  }
+
+.link:hover{
+  color: rgb(102, 91, 101);
+  color: rgba(102, 91, 101, 0.7);
+}
+
+
+th {
+  color: #4F0202;
+  text-align: left;
+}
+
+
+  .topnav {
+    background-color: #4F0202;
+    overflow: hidden;
+    outline: 4px inset white;
+    }
+
+
+
+    .topnav a {
+      float: left;
+      color: white;
+      font-family: Florence, cursive;
+      font-style: normal;
+      font-size: x-large;
+      font-size: 25px;
+      padding: 15px 10px;
+    }
+
+label {
+  margin-left: 25%;
+  font-family: Florence, cursive;
+  font-style: normal;
+  background-color: rgb(79, 246, 246);
+  background-color: rgba(79, 246, 246, 0.34);
+  line-height: 2.3;
+  border-radius: 5px;border: 1px solid rgb(253, 185, 201);
+  border: 1px solid rgba(253, 185, 201, 0.34);
+  box-shadow: 1px 1px 1px rgba(6, 161, 158, 0.94);
+}
+
+input {
+  font-family: Florence, cursive;
+  font-style: normal;
+  background-color: rgb(79, 246, 246);
+  background-color: rgba(79, 246, 246, 0.34);
+  line-height: 2.3;
+  border-radius: 5px;
+  border: 1px solid rgb(253, 185, 201);
+  border: 1px solid rgba(253, 185, 201, 0.34);
+  box-shadow: 1px 1px 1px rgba(6, 161, 158, 0.94);
+}
+
+textarea {
+  margin-left: 25%;
+  background-color: rgb(79, 246, 246);
+  background-color: rgba(79, 246, 246, 0.34);
+  padding: 15px;
+  line-height: 1.5;
+  border-radius: 10px;
+  border: 1px solid rgb(253, 185, 201);
+  border: 3px solid rgba(253, 185, 201, 0.34);
+  box-shadow: 3px 3px 3px rgba(6, 161, 158, 0.94);
+}
